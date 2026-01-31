@@ -6,7 +6,7 @@ This repository contains a structured manual QA test suite for the authenticatio
 - Website: https://automationexercise.com
 
 ## Test Case Spreadsheet (Google Drive)
-➡️ **[Manual Test Suite (Excel)](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)**
+➡️ **[Manual Test Suite (Excel)](https://docs.google.com/spreadsheets/d/1t3yb5iL6dqz-hlS9oScQggtlakPpU94r/edit?usp=sharing&ouid=114366804808076461714&rtpof=true&sd=true)**
 
 ## Spreadsheet Structure
 - **Test_Scenarios**: Consolidated scenarios with **Positive** and **Negative** coverage.
